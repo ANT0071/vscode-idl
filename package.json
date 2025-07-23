@@ -119,7 +119,7 @@
     "@material/web": "^2.1.0",
     "@mdi/js": "^7.3.67",
     "@ngbracket/ngx-layout": "^18.0.0",
-    "@nx/angular": "19.5.7",
+    "@nx/angular": "21.3.2",
     "@nx/cypress": "19.5.7",
     "@nx/esbuild": "19.5.7",
     "@nx/eslint": "19.5.7",
